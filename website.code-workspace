@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "website",
+			"path": "../.."
+		},
+		{
+			"name": "hello-world",
+			"path": "../../../RJS/hello-world"
+		}
+	],
+	"settings": {}
+}
